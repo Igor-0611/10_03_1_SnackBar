@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">10_03_1_SnackBar</string>
+    <string name="inputET">Поле ввода информации</string>
+    <string name="outputTV">Поле вывода информации</string>
+    <string name="saveBTN">Сохранить\nданные</string>
+    <string name="clearBTN">Удалить\nданные</string>
+</resources>
